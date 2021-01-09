@@ -14,11 +14,3 @@ A few tips -
 •	Every good story has some key elements - characters, setting, plot, complication and solution, try to build as many of them as you can.
 •	Deliver for the aha moment! Give the user an insight that can potentially impact the business. If the viewer doesn't get that then they won't appreciate your effort.
 
-Evaluation
-You will be graded on - 
-•	how engaging is your story?
-•	how well did you substantiate it with data?
-•	how interesting was the conclusion/key insight?
-•	how good were your visualizations?
-
-
